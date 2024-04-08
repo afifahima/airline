@@ -1,0 +1,71 @@
+.navbar{
+    height: 100px;
+}
+.navbar-brand{
+  font-size:xx-large;
+  background-color: transparent;
+  color: white;
+  font-style: oblique;
+}
+
+*{
+  margin:0;
+  padding: 0;
+}
+body{
+  background-image:  url("background img.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.navbar-nav{
+font-size: larger;
+font-style: oblique;
+}
+.carousel-item img {
+  object-fit:cover;
+  max-height:550px;
+}
+
+.card-group{
+  margin: auto;
+  width: 1250px;
+  padding-bottom: 30px;
+}
+.card-body{
+    background-color:lightblue;
+   
+
+}
+          #kav{
+     border-radius: 25px;
+}
+.card-title{
+    font-size: 25px;
+}
+.img-fluid{
+    margin:auto;
+    width:100%;
+   
+}
+.row{
+    font-size: larger;
+}
+.text-center{
+    background-color: transparent;
+}
+.row{
+    margin: auto;
+}
+
+.row d-flex {
+    background-color: transparent;
+}
+.forgot{
+    color:white;
+}
+.form-gap {
+    padding-top: 70px;
+}
+.for1{
+    color:white;
+}
